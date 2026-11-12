@@ -2,6 +2,82 @@
   <img src="./assets/profile-banner.svg" alt="Mohamed Hany — Computing and Artificial Intelligence student, learning by building" width="100%">
 </p>
 
+# Mohamed Hany
+
+**Third-Year Computing & Artificial Intelligence Student**
+Faculty of Computing and Artificial Intelligence
+
+Software Development · Machine Learning · Problem Solving
+
+---
+
+## About
+
+I'm a third-year student interested in software development, problem solving, and machine learning. I learn by applying what I study through practical projects, especially in programming and computer science fundamentals.
+
+I'm currently finishing my university courses in Artificial Intelligence and Machine Learning, and I plan to start Computer Vision next.
+
+---
+
+## Current Projects
+
+| # | Project | Area | Description | Status |
+|:--:|:--|:--|:--|:--:|
+| 1 | **Knight's Tour** | Artificial Intelligence | Search and problem solving | In progress |
+| 2 | **Machine Learning Project** | Machine Learning | Three classification tasks across numerical data, images, and text | In progress |
+
+### Machine Learning Project: Tasks
+
+| Task | Data Type | Problem |
+|:--|:--|:--|
+| Student Grade Prediction | Numerical | Predicting grades from student data |
+| Flower Recognition | Images | Classifying flower types from images |
+| SMS Spam Classification | Text | Classifying messages as spam or not spam |
+
+---
+
+## Learning Path
+
+| Stage | Focus | Status |
+|:--|:--|:--:|
+| Foundations | Programming, data structures, algorithms, operating systems, databases | Completed |
+| Artificial Intelligence & Machine Learning | University courses and the ML project | In progress |
+| Computer Vision | Next course of study | Planned |
+
+---
+
+## Technical Skills
+
+| Category | Tools |
+|:--|:--|
+| Programming Languages | Python, Java, C, SQL |
+| Python Libraries | NumPy, pandas, scikit-learn, Matplotlib |
+| Tools | Git, GitHub, VS Code, IntelliJ IDEA |
+
+---
+
+## Coursework
+
+| Area | Courses |
+|:--|:--|
+| Programming | C, Java, Python, Object-Oriented Programming |
+| Software Engineering | SOLID, Clean Code, Design Patterns, Software Engineering I & II, Systems Analysis |
+| Computer Science & Systems | Data Structures, Algorithms, Discrete Mathematics, Operating Systems I & II, Computer Organization, x86 Assembly, Parallel Processing, Computer Networks |
+| Data & Mathematics | SQL, Oracle SQL (PL/SQL), NumPy, pandas, Linear Algebra, Probability, Statistics, Operations Research |
+| AI & Machine Learning | Artificial Intelligence Algorithms, Machine Learning, Pattern Recognition, Deep Learning |
+
+---
+
+## Focus Areas
+
+Software Development · Data Structures & Algorithms · Machine Learning · Problem Solving
+
+---
+
+*Learning by building. Improving project by project.*
+
+
+
 <!-- <p align="center">
   <strong>Third-year Computing & Artificial Intelligence student</strong><br>
   <em>Turning coursework into projects — one idea at a time.</em>
@@ -41,37 +117,3 @@ My current projects explore AI algorithms and machine learning across numerical 
 <p align="center"><sub>Learning by building. Improving project by project.</sub></p> -->
 
 
-Mohamed Hany
-
-Computing & Artificial Intelligence · third year
-
-I'm interested in software development, problem solving, and machine learning. I learn best by building things, so most of what I know came from applying coursework to real projects.
-
-Where I am
-  FOUNDATIONS          ──▶    AI & ML (now)        ──▶    COMPUTER VISION
-  programming, data           finishing university         next step
-  structures, systems         courses
-Projects
-
-01 — Knight's Tour Search and problem solving with AI algorithms. In progress.
-
-02 — Student Grade Prediction Machine learning on numerical student data. In progress.
-
-03 — Flower Recognition Image classification. In progress.
-
-04 — SMS Spam Classification Text classification. In progress.
-
-Toolkit
-
-Languages    Python · Java · C · SQL Libraries    NumPy · pandas · scikit-learn · Matplotlib Tools       Git · GitHub · VS Code · IntelliJ IDEA
-
-Coursework
-<details> <summary>Subjects I've studied</summary>
-Programming — C, Java, Python, OOP
-Software engineering — SOLID, Clean Code, Design Patterns, SE I & II, Systems Analysis
-Systems & CS — Data Structures, Algorithms, Discrete Mathematics, OS I & II, Computer Organization, x86 Assembly, Parallel Processing, Computer Networks
-Data & math — SQL, Oracle SQL (PL/SQL), NumPy, pandas, Linear Algebra, Probability, Statistics, Operations Research
-AI & ML — AI Algorithms, Machine Learning, Pattern Recognition, Deep Learning
-</details>
-
-Learning by building. Improving project by project.
