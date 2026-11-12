@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Mohamed Hany — Computing and Artificial Intelligence student, learning by building" width="100%">
+  <img src="./assets/profile-banner.svg" alt="Mohamed Hany — Computing and Artificial Intelligence student, learning by building" width="100%">
 </p>
 
 # Mohamed Hany
